@@ -1,4 +1,4 @@
-# ***#ContratoDeCompromisso***
+# *#ContratoDeCompromisso*
 
 ## Links Uteis
 
@@ -14,7 +14,7 @@
 
 https://www.markdownguide.org/basic-syntax/
 
-##### ***Outros***
+##### *Outros*
 
 https://docs.microsoft.com/pt-pt/learn/m365/
 
