@@ -10,9 +10,7 @@
 
 - Github https://github.com/MaikoPellegrini
 
-#### Markdown
-
-https://www.markdownguide.org/basic-syntax/
+#### Markdown https://www.markdownguide.org/basic-syntax/
 
 ##### *Outros*
 
