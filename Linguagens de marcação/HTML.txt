@@ -1,0 +1,32 @@
+Estrutura HTML
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta>
+  <title></title>
+ </head
+ <body>
+ </body>
+</html>
+
+<h1> Título de pagina </h1>
+<h2> Título de seção </h2>
+<h3> Título de artigo </h3>
+<p> Conteúdo do artigo. </p>
+<a>Link</a> ancora interliga conteúdo na web
+<a href="linkedin.com/MaikoPellegrini/">LinkedIn</a>
+<a href="maikoandrepellegrini@gmail.com">E-mail</a>
+
+<a href="https://www.linkedin.com/in/maiko-pellegrini-8363651aa/"target="_blank">Perfil do linkedin</a> abrir link em nova aba.
+
+<a href="mailto:maikoandrepellegrini@gmail.com">E-mail</a> abrir e-mail no pc.
+
+<img src="img/avatar.jpg">
+<img alt="Foto ">
+
+C:\Users\Maiko\OneDrive\Desktop\DIO\BootCamp\Carrefour Web Developer\Projetos\Site/images.png">
+images1.jpg
+
+https://tinypng.com/ otimizar imagens para sites
+

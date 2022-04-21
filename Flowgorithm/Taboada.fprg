@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Maiko"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-04-13 10:44:11 "/>
+        <attribute name="created" value="TWFpa287REVTS1RPUC1FUTRFQVZKOzIwMjItMDQtMTM7IjExOjM4OjM3ICI7Mjc2OA=="/>
+        <attribute name="edited" value="TWFpa287REVTS1RPUC1FUTRFQVZKOzIwMjItMDQtMTM7IjEwOjQ0OjExICI7MTsyODY0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="90"/>
+            <while expression="numero &lt;= limite">
+                <output expression="&quot;Contagen atual &#233; &quot; &amp; numero" newline="True"/>
+                <assign variable="numero" expression="numero + 9"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
